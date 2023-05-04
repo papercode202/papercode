@@ -23,4 +23,4 @@ The output should be:
 
 ![image](https://user-images.githubusercontent.com/130567644/236200982-22b3b080-a5e2-4a83-9785-7cffad42bdd7.png)
 ## Credits
-This codebase is built upon the Trajectron++ ECCV2020 paper by Ashesh Jain, Alex Wang, Yuxuan Liang, Brian Ichter, and Silvio Savarese. We would like to thank the authors for their valuable contribution to the field of autonomous vehicle trajectory prediction and for making their work publicly available. If you use this codebase for your own research, please consider citing the Trajectron++ ECCV2020 paper
+This codebase is built upon Trajectron++: Dynamically-Feasible Trajectory Forecasting With Heterogeneous Data by Tim Salzmann*, Boris Ivanovic*, Punarjay Chakravarty, and Marco Pavone (* denotes equal contribution) ECCV2020 paper. We would like to thank the authors for their valuable contribution to the field of autonomous vehicle trajectory prediction and for making their work publicly available.

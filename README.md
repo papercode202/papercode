@@ -9,7 +9,7 @@ Trajectory prediction has been identified as a challenging critical task for ach
 <img src="https://user-images.githubusercontent.com/130567644/236206993-097f1088-af9d-442f-bd14-2c98b7e42bdb.png" width=50% height=50%>
 
 ## Setting up and testing
-To set up the environment make sure to build an conda environment and install all requirements of https://github.com/StanfordASL/Trajectron-plus-plus eccv2020 paper same goes for the dataset generation, the dataset can be found at https://www.nuscenes.org/nuscenes
+To set up the environment make sure to build an conda environment and install all requirements of https://github.com/StanfordASL/Trajectron-plus-plus eccv2020 paper same goes for the dataset generation you should follow Trajectron++ eccv2020 version, the dataset can be found at https://www.nuscenes.org/nuscenes
 
 To test the codebase, you can run the following command in your terminal under Towards-Edge-Assisted-Trajectory-Prediction-for-Connected-Autonomous-Vehicles directory:
 

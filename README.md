@@ -11,7 +11,7 @@ Trajectory prediction has been identified as a challenging critical task for ach
 ## Setting up and testing
 To set up the environment make sure to build an conda environment and install all requirements of https://github.com/StanfordASL/Trajectron-plus-plus eccv2020 paper same goes for the dataset generation you should follow Trajectron++ eccv2020 version, the dataset can be found at https://www.nuscenes.org/nuscenes
 
-To test the codebase, you can run the following command in your terminal under papercode directory:
+To test the codebase place the nuScenes_test_full.pkl under processed directory then you can run the following command in your terminal under papercode directory:
 
 
 python clustering.py --model nuScenes/models/yesdynamics --checkpoint=12 --model2 nuScenes/models/nodynamics --checkpoint2=12 --model3 nuScenes/models/plusmap --checkpoint3=12 --epsilon=10 --data processed/nuScenes_test_full.pkl --output_path nuScenes/results --output_tag clustering --node_type VEHICLE

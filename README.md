@@ -1,5 +1,5 @@
 # Towards Edge-Assisted Trajectory Prediction for Connected Autonomous Vehicles
-Mehdi Salim Benhelal, Badii Jouaber, Hossam Afifi, Hassine Moungla
+
 
 ## Abstact
 

@@ -25,5 +25,7 @@ The output should be:
 
 
 ![image](https://user-images.githubusercontent.com/130567644/236200982-22b3b080-a5e2-4a83-9785-7cffad42bdd7.png)
+
+Important note:  This repository contains only code demos, as we do not share the client-server network setup. It is intended primarily for fast testing of the model.
 ## Credits
 This codebase is built upon Trajectron++: Dynamically-Feasible Trajectory Forecasting With Heterogeneous Data by Tim Salzmann*, Boris Ivanovic*, Punarjay Chakravarty, and Marco Pavone (* denotes equal contribution) ECCV2020 paper. We would like to thank the authors for their valuable contribution to the field of autonomous vehicle trajectory prediction and for making their work publicly available.
